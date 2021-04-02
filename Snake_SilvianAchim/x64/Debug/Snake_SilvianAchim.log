@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(79,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(95,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(97,10): warning C4552: '-': result of expression not used
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(147,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(147,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(151,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(151,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(155,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(155,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(158,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\Snake_SilvianAchim\main.cpp(158,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake_SilvianAchim.vcxproj -> D:\! Chestii importante\Proiecte Jocuri\Snake\Snake_SilvianAchim\x64\Debug\Snake_SilvianAchim.exe
